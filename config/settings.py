@@ -1,6 +1,6 @@
 '''
-Author:     Sai Vignesh Golla
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
+Author:     Vikas Malik
+LinkedIn:   linkedin.com/in/vikas-malik-3a854310
 
 Copyright (C) 2024 Sai Vignesh Golla
 
