@@ -16,8 +16,8 @@ version:    24.12.29.12.30
 ###################################################### LINKEDIN SEARCH PREFERENCES ######################################################
 
 # These Sentences are Searched in LinkedIn
-# Enter your search terms inside '[ ]' with quotes ' "searching title" ' for each search followed by comma ', ' Eg: ["Software Engineer", "Software Developer", "Selenium Developer"]
-search_terms = ["Software Engineer", "Software Developer", "Python Developer", "Selenium Developer", "React Developer", "Java Developer", "Front End Developer", "Full Stack Developer", "Web Developer", "Nodejs Developer"]
+# Enter your search terms inside '[ ]' with quotes ' "searching title" ' for each search followed by comma ', ' Eg: ["Data Engineer", "Sr. Data Engineer", "Data Architect"]
+search_terms = ["Data Engineer", "Sr. Data Engineer", "Data Architect", "Python Developer", "GCP Data Engineer", "AWS Data Engineer", "Lead Data Engineer", "Lead Data Analyst", "", "Data manager", "Data"]
 
 # Search location, this will be filled in "City, state, or zip code" search box. If left empty as "", tool will not fill it.
 search_location = "United States"               # Some valid examples: "", "United States", "India", "Chicago, Illinois, United States", "90001, Los Angeles, California, United States", "Bengaluru, Karnataka, India", etc.
